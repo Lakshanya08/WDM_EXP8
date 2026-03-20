@@ -93,6 +93,7 @@ else:
 
 ### Output:
 
+<img width="730" height="543" alt="image" src="https://github.com/user-attachments/assets/223d51e3-bf2e-46f3-8f0d-0b61ff7b90a5" />
 
 ### Result:
 Thus, web scraping was successfully performed using Python and BeautifulSoup to extract product details and visualize the data using a bar chart.
